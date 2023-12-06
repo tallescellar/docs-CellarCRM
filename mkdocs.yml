@@ -1,10 +1,11 @@
 # Project information
 site_name: Cellar CRM Docs
+site_url: https://tallescellar.github.io/docs-CellarCRM/
 
 # Repository
 repo_name: tallescellar/docs-CellarCRM
 repo_url: https://github.com/tallescellar/docs-CellarCRM
-edit_uri: edit/main/docs/
+edit_uri: ''
 
 # Configuration
 theme:
