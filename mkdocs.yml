@@ -1,0 +1,23 @@
+# Project information
+site_name: Cellar CRM Docs
+
+# Repository
+repo_name: tallescellar/docs-CellarCRM
+repo_url: https://github.com/tallescellar/docs-CellarCRM
+edit_uri: edit/main/docs/
+
+# Configuration
+theme:
+  name: material
+  logo: assets/logo.png
+  language: pt-BR
+  features:
+    - announce.dismiss
+  custom_dir: overrides
+  icon:
+      repo: fontawesome/brands/git-alt
+
+# Customization      
+extra:
+  version:
+    provider: mike
