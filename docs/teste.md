@@ -2,6 +2,8 @@
 
 Isso é um teste do Cellar CRM.
 
+E agora temos a versão 0.2
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
